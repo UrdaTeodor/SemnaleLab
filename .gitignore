@@ -3,5 +3,9 @@ Procesarea Semnalelor*.pdf
 
 labs
 
+# Date de intrare (inregistrarea de la lab 4, setul de date de la lab 5)
+vocale.wav
+Train.csv
+
 # Python
 __pycache__/
